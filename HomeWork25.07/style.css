@@ -17,9 +17,9 @@
 }
 .all{
     height: 950px; 
-    /* background-image: url(/images/background.jpg); */
-    background: linear-gradient(180deg, #282828 0%, rgba(40, 40, 40, 0) 100%),url(/images/background.jpg);
-    background-size: cover;
+    background-image: url(/images/background.jpg);
+    /* background: linear-gradient(180deg, #282828 0%, rgba(40, 40, 40, 0) 100%),url(/images/background.jpg);*/
+    background-size: cover; 
 
 }
 .head{
